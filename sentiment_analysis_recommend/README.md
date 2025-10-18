@@ -5,3 +5,13 @@
 
 해당 비공개 저장소에는 모든 세부 로직, 모델, 실험 로그가 포함되어 있습니다.
 
+프로젝트 전체 흐름은 다음과 같습니다
+
+1. sentiment_and_etl
+
+2. External Signal-based_Analysis
+
+3. External Signal-based_Recommendation
+
+
+
