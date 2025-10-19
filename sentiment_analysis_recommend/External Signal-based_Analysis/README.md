@@ -26,7 +26,7 @@ x(게시글),y(댓글)
 
 | 트렌드 변화 | 시간대 반응 | 감정 히트맵 | 전달력 |
 |--------------|--------------|--------|---------|
-| ![](./images/trend_dashboard.PNG) |   |   |  | 
+| ![](./images/trend_dashboard.PNG) | ![](./likesCount_commentsCount_dashboard.PNG)  |   |  | 
 
 # 추천 우선순위 개선을 위한 피처 가중 분석
 
