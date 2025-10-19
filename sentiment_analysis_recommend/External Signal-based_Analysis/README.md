@@ -24,12 +24,23 @@ sentiment_alignment = 1 - ABS(sentiment_score - comment_sentiment_avg)
 1에 가까울수록 일치 (대각선 1)
 x(게시글),y(댓글)
 
-<p align="center">
-  <img src="./images/trend_dashboard.PNG" width="22%" />
-  &nbsp;&nbsp;
-  <img src="./images/likesCount_commentsCount_dashboard.PNG" width="22%" />
 
-</p>
+**트렌드 변화**  
+<img src="./images/trend_dashboard.PNG" width="400"/>  
+<br><br>
+
+**시간대 반응**  
+<img src="./images/likesCount_commentsCount_dashboard.PNG" width="400"/>  
+<br><br>
+
+**감정 히트맵**  
+ 
+<br><br>
+
+**전달력**  
+
+
+
 
 
 
