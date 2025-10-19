@@ -24,9 +24,23 @@ sentiment_alignment = 1 - ABS(sentiment_score - comment_sentiment_avg)
 1에 가까울수록 일치 (대각선 1)
 x(게시글),y(댓글)
 
-| 트렌드 변화 | 시간대 반응 | 감정 히트맵 | 전달력 |
-|--------------|--------------|--------|---------|
-| ![](./images/trend_dashboard.PNG) | ![](./images/likesCount_commentsCount_dashboard.PNG)  |   |  | 
+| 트렌드 변화 | 
+
+|--------------|
+| ![](./images/trend_dashboard.PNG) |
+|--------------|
+|시간대 반응 |
+|--------------|
+|![](./images/likesCount_commentsCount_dashboard.PNG)  | 
+|--------------|
+|감정 히트맵 | 
+|--------------|
+|   |
+|--------------|
+|전달력 |
+|     |
+|---------|
+ 
 
 # 추천 우선순위 개선을 위한 피처 가중 분석
 
