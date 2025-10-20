@@ -31,10 +31,8 @@ x(게시글),y(댓글)
 ### 시간대 반응
 ![시간대 반응](./images/likesCount_commentsCount_dashboard.PNG)
 
-### 감정 히트맵
-
-
-### 전달력
+### 유저 감정변화, 전달력 (max engagement, max sentiment)
+![감정 변화](./images/max_engagement_captions_comments_analysis.PNG)
 
 
 
