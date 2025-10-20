@@ -34,6 +34,8 @@ x(게시글),y(댓글)
 ### 유저 감정변화, 내용 전달력 (max engagement, max sentiment)
 ![감정 변화](./images/max_engagement_captions_comments_analysis.PNG)
 
+![감정 변화](./images/max_engagement_captions_sentiment_analysis.PNG)
+
 
 
 
