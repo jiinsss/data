@@ -12,17 +12,9 @@ data source= sentiment_and_etl로 처리한 데이터 (df_info.txt)
 [3]. 시간에 따른 감정 변화 (히트맵) - 내용이나 해시태그 내용도 표현
 ->"호감/반감형 콘텐츠 탐지"
 
-sentiment_diff = comment_sentiment_avg - first_sentiment_score
-> 0: 시간이 갈수록 긍정적 반응 증가 (호감 확산형) -> 노랑
-< 0: 시간이 갈수록 부정 반응 증가 (반감 확산형) -> 파랑
-= 0: 반응이 일관됨 -> 회색
 
 [4]. 게시글과 댓글 감정 일치도 (산점도) - 내용이나 해시태그 내용도 표현
 ->"감정 전달력/ 공감도 분석"
-
-sentiment_alignment = 1 - ABS(sentiment_score - comment_sentiment_avg)
-1에 가까울수록 일치 (대각선 1)
-x(게시글),y(댓글)
 
 
 ### 트렌드 변화
