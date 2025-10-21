@@ -26,9 +26,7 @@ engagement_max AS (
   WHERE rn = 1
 )
 SELECT
-  -- 버킷 한 줄 문자열 (예: "Friday 18:00")
   CONCAT(c.weekday, ' ',m.kst_hour) AS bucket,
-  -- 날짜 + 시간 한 줄 문자열
   CONCAT(
     FORMAT_DATE('%Y-%m-%d', c.date),
     ' ',
