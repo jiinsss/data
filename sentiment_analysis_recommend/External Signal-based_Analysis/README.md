@@ -52,11 +52,18 @@ data source= sentiment_and_etl로 처리한 데이터 (df_info.txt)
 
 → 감정 차이 큰 콘텐츠는 실시간 참여 유도, 안정형 콘텐츠는 브랜드 신뢰 유지에 효과적
 
-[감정 변화 분석 보기](https://lookerstudio.google.com/reporting/5c15fb1c-d06c-4f3e-aa3d-b2caf4680cc5)
+[Max Engagement 감정 변화 분석 보기](https://lookerstudio.google.com/reporting/5c15fb1c-d06c-4f3e-aa3d-b2caf4680cc5)
 
-
+[Max Sentiment 감정 변화 분석 보기](https://lookerstudio.google.com/reporting/93ddf192-a9be-41d0-bd65-4da6f6cdfddf)
 
 # 비즈니스적 인사이트
+이를 비즈니스 목적이나 전략에 활용한다면, 특정 브랜드의 인기 상승 요인을 분석하고 유저 활동 패턴과 유형을 파악할 수 있다
+
+그리고 더 나아가 해당 브랜드의 해시태그와 연관된 제품을 추천시스템에 활용 할 수 있다
+
+특정 브랜드를 예를 든다면, 트래픽 상승 지점의 해시태그 목록을 보고 정보형 콘텐츠인지, 감정 유도형 콘텐츠인지 파악하고 이를 적절한 시간대에 배치해 홍보 효율을 높일 수 있다
+
+혹은 특정 브랜드의 유저들의 반응 정보를 통해 유저들의 관심 해시태그를 파악하고, 타입을 분류할 수 있다
 
 - **참여형 콘텐츠** → 실시간 반응·트래픽 확보 (Real-time Engagement)
 
