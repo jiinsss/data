@@ -43,7 +43,7 @@ data source= sentiment_and_etl로 처리한 데이터 (df_info.txt)
 
 likes의 경우 수동적 반응 (가벼운 탐색)으로 소비 중심의 썸네일, 대표 이미지가 강한 방향으로
 
-comments의 경우 능동적 반응이라 (의견교류)로 공감형, 논의형, 스토리형 방향으로 기획해야 한다
+comments의 경우 능동적 반응이라 (의견교류)로 공감형, 논의형, 스토리형 방향으로 기획
 
 [시간대별 피봇 보기](https://lookerstudio.google.com/reporting/03d2a02b-fd83-4689-85ed-847f9863862b)
 
